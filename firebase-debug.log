@@ -1,0 +1,21 @@
+[debug] [2024-02-14T10:30:34.993Z] ----------------------------------------------------------------------
+[debug] [2024-02-14T10:30:34.998Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\snipe\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-02-14T10:30:34.999Z] CLI Version:   13.2.1
+[debug] [2024-02-14T10:30:34.999Z] Platform:      win32
+[debug] [2024-02-14T10:30:34.999Z] Node Version:  v21.6.1
+[debug] [2024-02-14T10:30:34.999Z] Time:          Wed Feb 14 2024 11:30:34 GMT+0100 (Ora standard dell’Europa centrale)
+[debug] [2024-02-14T10:30:35.000Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-02-14T10:30:35.010Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-02-14T10:30:35.011Z] > authorizing via signed-in user (trovatorosario91@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\snipe\Desktop\Progetti\san_val
+
